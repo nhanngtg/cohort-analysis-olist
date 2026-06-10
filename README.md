@@ -1,4 +1,4 @@
-Project Overview
+##Project Overview
 
 This project analyzes customer retention behavior using cohort analysis on the Brazilian E-Commerce Public Dataset by Olist.
 
