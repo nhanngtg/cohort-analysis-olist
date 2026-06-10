@@ -13,7 +13,7 @@ The objective is to understand customer retention patterns, repeat purchase beha
 
 Resources
 * Download Power BI File (.pbix): https://drive.google.com/file/d/1eqvLdB88NF6MDSM8uNZ3CPH7Ge5v68n6/view?usp=sharing
-* Report (PDF): DATA_ANALYSIS_REPORT.pdf
+* Report (PDF): DATA_ANALYSIS_REPORT-NGUYEN_TRONG_NHAN.pdf
 * SQL Query: cohort_analysis.sql
 
 **Key Metrics**
